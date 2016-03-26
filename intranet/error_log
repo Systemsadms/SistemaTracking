@@ -1,0 +1,22 @@
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 280
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[01-Jul-2014 18:15:17 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[01-Jul-2014 18:15:17 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[02-Jul-2014 13:38:46 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[02-Jul-2014 13:38:46 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[08-Jul-2014 12:12:02 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[08-Jul-2014 12:12:02 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317

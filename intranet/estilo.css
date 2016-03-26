@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+background-image:url(img/fondo.JPG);
+background-repeat:repeat-x;
+}
+
+#Marcocosmo
+{
+	margin: 0 auto 0 auto;
+	width: 1400px;
+	height: auto;
+
+	
+	
+}
+
+
+#MarcoGlobal
+{
+	margin: 0 auto 0 auto;
+	width: 900px;
+	height: auto;
+	background:#F4F4F4;
+	
+	
+}
+
+
+#modulotop
+{
+	width: 900px;
+	height: 100px;
+	font-family:Verdana, Geneva, sans-serif;
+	background-color:#10253f;
+	
+}
+
+
+				#logo
+				{
+					width: 300px;
+					height: 100px;
+					font-family:Verdana, Geneva, sans-serif;
+					background-image:url(img/systemslogo.png);
+					float:left;
+					
+				}
+				#titulo
+				{
+					width: 600px;
+					height: 100px;					
+					font-family:Verdana, Geneva, sans-serif;
+					background-color:#10253f;
+					color:#FFF;
+					float:left;
+					
+				}
+
+
+
+
+#menu
+{
+	width: 900px;
+	height: 35px;
+	
+
+	
+}
+
+
+#sparacion
+{
+	width: 900px;
+	height: 50px;
+	
+
+	
+}
+
+
+#contenido
+{
+	width: 900px;
+	height: auto;
+
+
+	
+}
+
+
+#titulo
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	text-align:center;
+	
+	
+}
+
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #666666;
+  font: normal 11px verdana, arial, helvetica, sans-serif;
+  color: #363636;
+  background: #f6f6f6;
+  text-align:center;
+  }
+
+#intranet{
+		background-image:url(../img/intranet.jpg);
+	
+	}

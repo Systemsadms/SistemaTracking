@@ -1,0 +1,17 @@
+/*
+ Ajatix Pure CSS Menu
+ Copyright (C) 2010 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXMenuWJcNLQA {position:relative;z-index:100;width:100%;min-width:588px;height:30px;border:1px solid #999999;background:#ffffff url(ajxmenu_files/menu-bg.gif) center center;text-align:left;}
+* html .AJXMenuWJcNLQA .ajxmw1 {float:left;height: 1px;border-left:590px solid #fff;}
+* html .AJXMenuWJcNLQA .ajxmw2 {position:relative;margin-left:-590px;height:1px;background:#ffffff url(ajxmenu_files/menu-bg.gif) center center;}
+.AJXMenuWJcNLQA ul {position:relative;display:inline-block;margin:0;padding:0;list-style-type:none;}
+* html .AJXMenuWJcNLQA ul {display:inline;}
+*+html .AJXMenuWJcNLQA ul {display:inline;}
+.AJXMenuWJcNLQA li {float:left;margin:0;}
+.AJXMenuWJcNLQA a {display:block;float:left;height:30px;white-space:nowrap;padding:0 11px 0 11px;font:11px/30px Verdana,Arial,Helvetica,sans-serif;text-decoration:none;text-align:left;color:#777777;}
+.AJXMenuWJcNLQA li:hover a,.AJXMenuWJcNLQA a:hover {color:#ffffff;background:#999999;}
+.AJXMenuWJcNLQA br {clear:both;height:0;font-size: 1px;line-height: 0px;}
